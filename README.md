@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, electronics, space
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on anything tbh
-- 📫 How to reach me, discord: Ozule#7111
+- 📫 How to reach me, discord: ozule#7111
 
 <!---
 elmerij/elmerij is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
